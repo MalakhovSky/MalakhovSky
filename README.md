@@ -10,13 +10,13 @@
  
  <div id="badges">
   <a href ="https://t.me/tviler6" >
-   <img src="https://cdn.icon-icons.com/icons2/555/PNG/96/telegram_icon-icons.com_53603.png"/>
+   <img src="https://cdn.icon-icons.com/icons2/555/PNG/80/telegram_icon-icons.com_53603.png"/>
   </a>
   <a href ="https://tviler6@gmail.com/" >
-   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/96/gmail_new_logo_icon_159149.png"/>
+   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/80/gmail_new_logo_icon_159149.png"/>
   </a>
    <a href ="https://vk.com/artushkin_page" >
-   <img src="https://cdn.icon-icons.com/icons2/1753/PNG/96/iconfinder-social-media-applications-32vk-4102593_113806.png"/>
+   <img src="https://cdn.icon-icons.com/icons2/1753/PNG/80/iconfinder-social-media-applications-32vk-4102593_113806.png"/>
   </a>
  
  </div>
@@ -26,16 +26,16 @@ ___
 
  ### 🛠 Технологии 🛠️
  <div>
- <img  height="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img  height="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
- <img height="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img height="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img height="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img height="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img height="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />        
- <img height="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
- <img height="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img height="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+ <img  height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img  height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+ <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />        
+ <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+ <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  </div>
 
 ___
