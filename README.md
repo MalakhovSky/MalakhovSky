@@ -1,5 +1,5 @@
 # <img src="/header.png" alt="альтернативный текст">
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Beginer+Front-End+developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Beginner+Front-End+developer)](https://git.io/typing-svg)
  <br>
  Приветствую на моей GitHub странице. Я начинающий front-end разработчик 🙃
  ___
