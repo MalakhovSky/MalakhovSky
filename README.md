@@ -45,7 +45,10 @@ ___
 | <!-- -->      | <!-- -->        | <!-- -->      |
 |:-------------:|:---------------:|:-------------:|
 |  [What-to-watch](https://github.com/MalakhovSky/What-to-watch)          | Онлайн кинотеатр. Позволяет оставлять отзывы, ставить оценки, выбирать фильмы и сохранять в избранное авторизованным пользователям.|React, Redux Toolkit, TS, Jest, React Router, Redux Persist, EsLint|
-|[ React-pizza ](https://github.com/MalakhovSky/react-pizza-app)        |Учебный проект по курсу Archakov blog: Сервис заказа пиццы.  | ReactJS, TypeScript, Redux Toolkit, React Router, Prettier, CSS-Modules, React Content Loader, React Pagination, Lodash.Debounce |
+|[ React-pizza ](https://github.com/MalakhovSky/react-pizza-app)        | Учебный проект по курсу Archakov blog: Сервис заказа пиццы.  | ReactJS, TypeScript, Redux Toolkit, React Router, Prettier, CSS-Modules, React Content Loader, React Pagination, Lodash.Debounce |
+|[  empl-fullstack ](https://github.com/MalakhovSky/empl-fullstack)        | Сервис учета данных работников. Можно авторизироваться, добавлять и редактировать данные работников  | Express, ReactJS, TypeScript, Redux Toolkit, React Router, Prettier, ant2d |
+
+
 
 
 
